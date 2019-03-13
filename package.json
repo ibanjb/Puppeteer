@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Puppeteer web scraping",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibanjb/Puppeteer.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Iban Balasch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibanjb/Puppeteer/issues"
+  },
+  "homepage": "https://github.com/ibanjb/Puppeteer#readme",
+  "dependencies": {
+    "mongoose": "^5.4.19",
+    "puppeteer": "^1.13.0"
+  }
+}
